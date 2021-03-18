@@ -1,5 +1,5 @@
 # cobol
-The program and jcl were created for the IBM Master The Mainframe Grand Challenge. I decided to write a proram that took data from public datasets on the UK's Office of National Statistics website about COVID-19 deaths and indicators of social deprivation, to see if there was a corellation between them. The resulting program is a proof-of-concept, as the datasets used are not correlatable in any meaningful way.
+The program and jcl were created for the IBM Master The Mainframe Grand Challenge. I decided to write a program that took data from public datasets on the UK's Office of National Statistics website about COVID-19 deaths and indicators of social deprivation, to see if there was a corellation between them. The resulting program is a proof-of-concept, as the datasets used are not correlatable in any meaningful way.
 
 COVID-19 Deaths by LAD with SD Index
 
